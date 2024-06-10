@@ -14,7 +14,7 @@ Module này cho phép bạn quản lý và tự động hóa các máy chủ ả
 
 ## Cài đặt
 1. Tải module từ repository GitHub:
-git clone https://github.com/hosook/whmcs-vmware-server-module.git
+git clone https://github.com/hieuit095/plugin-whmcs-manage-vmware.git
 
 Copy
 
